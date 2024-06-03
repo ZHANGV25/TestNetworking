@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vhzha\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\vhzha\\my project\\assets\\_scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\vhzha\\my project\\assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\vhzha\\My project\\assets\\_scripts\\startnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\startnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientNetworkTransform.cs",
+              "DocumentMoniker": "C:\\Users\\vhzha\\My project\\Assets\\_Scripts\\ClientNetworkTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ClientNetworkTransform.cs",
+              "ToolTip": "C:\\Users\\vhzha\\My project\\Assets\\_Scripts\\ClientNetworkTransform.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ClientNetworkTransform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:27:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\vhzha\\My project\\Assets\\_Scripts\\StartNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\StartNetwork.cs",
+              "ToolTip": "C:\\Users\\vhzha\\My project\\Assets\\_Scripts\\StartNetwork.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\StartNetwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:43:22.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\vhzha\\My project\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\vhzha\\My project\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PlayerController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:57:35.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

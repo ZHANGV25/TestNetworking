@@ -1,0 +1,62 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Thumbnails
+*.png
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Visual Studio Code
+.vscode
+
+# Gradle cache
+.gradle
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity cache directory
+sysinfo.txt
+
+# Generated from consuming external APIs
+Assets/ExternalDependencyManager/
+
+# Uncomment if needed: Persisted and temporary data from the Unity Editor itself
+# [Ee]ditor/
+
+# Uncomment if needed: Uncommonly edited, but persist data generated from the Unity Editor itself
+# [Pp]rojectSettings/
+
+# Legacy Unity-generated files #
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.ide*
